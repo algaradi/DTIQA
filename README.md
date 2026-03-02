@@ -1,5 +1,5 @@
 # DTIQA: A Dual-Path Transformer Framework for Robust No-Reference Image Quality Assessment
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18842363.svg)](https://doi.org/10.5281/zenodo.18842363)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-orange)
@@ -27,7 +27,7 @@ To set up the environment, simply clone the repository and install the dependenc
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/DTIQA.git
+git clone https://github.com/algaradi/DTIQA.git
 cd DTIQA
 
 # Install required dependencies
@@ -123,3 +123,4 @@ The BibTeX entry will be updated upon publication.
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
